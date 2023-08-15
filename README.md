@@ -14,7 +14,7 @@ The **_GymPass_** is an Android and iOS application designed for those who love 
 
 ---
 
-GIF HERE - LINKS HEADER ****\*\*****
+GIF HERE - LINKS HEADER \***\*\*\*\*\***
 
 ---
 
@@ -26,7 +26,9 @@ There's also a dedicated area for exercises marked as completed, accessible thro
 
 Last but not least, we have the final option in the bottom menu, which relates to the user's profile. Here, the user can add or edit a photo, change their name, and even set a new password to access the app.
 
-- **Home**:
+<div align="center" >
+<b>SignIn and SignUp pages</b>
+</div>
 
 <div align="center" >
   <img src="https://i.imgur.com/sOrGQ8s.png" width="250">&nbsp;&nbsp;<img src="https://i.imgur.com/HOpJam6.png" width="250">
@@ -46,6 +48,10 @@ This project was created to learn and test new concepts within the React Native 
 - Error handling in requests
 - Sharing context data
 - Storage of data on the local device
+
+<div align="center" style="margin-top: 30px;">
+<b>Authenticated routes</b>
+</div>
 
 <div align="center" >
   <img src="https://i.imgur.com/o47bu3W.png" width="250">&nbsp;&nbsp;
