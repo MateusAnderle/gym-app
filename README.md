@@ -13,9 +13,9 @@ The **_GymPass_** is an Android and iOS application designed for those who love 
 </h3>
 
 ---
-
-GIF HERE - LINKS HEADER \***\*\*\*\*\***
-
+<div align="center" >
+<img src="https://github.com/MateusAnderle/gym-app/assets/100309091/52c3a669-dbc2-469a-8be0-cd711b2ac31b" width="300">
+</div>
 ---
 
 ## :information_source: About
