@@ -65,12 +65,11 @@ This project was created to learn and test new concepts within the React Native 
 
 ---
 
-## Using the application (video)
-<div align="center" style="margin-top: 30px;">
-  <a href="https://www.youtube.com/shorts/UpCLXzgAWgU">
-    <img src="https://i.imgur.com/sOrGQ8s.png" width="300px" alt="Using the app">
-  </a>
+## Using the application
+<div align="center" >
+<img src="https://github.com/MateusAnderle/gym-app/assets/100309091/88e1f18d-39de-444c-9c03-f34ddaa22e20" width="300">
 </div>
+
 ## Minimum Requirements
 
 - Android Studio or Xcode
