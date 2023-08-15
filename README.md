@@ -65,10 +65,12 @@ This project was created to learn and test new concepts within the React Native 
 
 ---
 
-## Using the application video
-
-## YOUTUBE VIDEO HERE**\*\*\***
-
+## Using the application (video)
+<div align="center" style="margin-top: 30px;">
+  <a href="https://www.youtube.com/shorts/UpCLXzgAWgU">
+    <img src="https://i.imgur.com/sOrGQ8s.png" width="300px" alt="Using the app">
+  </a>
+</div>
 ## Minimum Requirements
 
 - Android Studio or Xcode
